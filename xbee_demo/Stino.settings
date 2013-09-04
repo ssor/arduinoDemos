@@ -1,0 +1,13 @@
+{
+    "arduino_root": "C:\\portableProgram\\arduino-1.5.2", 
+    "baudrate": "9600", 
+    "board": "Arduino Uno", 
+    "full_compilation": false, 
+    "global_setting": true, 
+    "language": "Chinese Simplified", 
+    "platform": "Arduino AVR Boards", 
+    "pre_setting_folder_path": "C:\\program\\arduino\\xbee_demo", 
+    "programmer": "AVR ISP", 
+    "serial_port": "COM3", 
+    "sketchbook_root": "C:\\Users\\ssor\\Documents\\Arduino"
+}
